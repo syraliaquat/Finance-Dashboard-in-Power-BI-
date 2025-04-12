@@ -1,0 +1,63 @@
+## Finance Dashboard Project
+This is an interactive and insightful Finance Dashboard created using Power BI. It provides a comprehensive overview of income and spending patterns across various demographics and categories. The dashboard is designed to help businesses or analysts understand consumer financial behavior through clear, visually engaging charts and KPIs.
+
+### Dashboard Overview
+The dashboard includes the following key visualizations and metrics:
+🔹 Key Performance Indicators
+Average Spend: $614.46
+Average Income: $51.66
+
+🔹 Filters
+Location
+Month
+These filters allow users to slice the data dynamically for deeper analysis.
+
+#### Visuals & Insights
+1. Number of Transactions by Payment Type
+Displays an even distribution across payment methods: UPI, Net Banking, Credit Card, and Debit Card (each at 25%).
+
+2. Total Spend by Gender
+Male: 67.27%
+Female: 32.73%
+Insight: Males have significantly higher spending compared to females.
+
+3. Average Spend by Age Group
+Age group 35-45 has the highest average spending.
+21-24 age group spends the least.
+
+4. Income and Spend Analysis by Occupation
+Salaried IT Employees show the highest spending and income.
+Freelancers and Government Employees have relatively lower spending and income levels.
+The dual-axis chart visualizes both total spend and average income per occupation.
+
+5. Average Spend by Category and Gender
+Males spend more on Bills, Groceries, and Electronics.
+Females lead in Health & Wellness and Entertainment spending.
+Shows clear gender-based spending patterns across categories.
+
+6. Category Spend Analysis Table
+Lists detailed insights on:
+Category
+Gender
+Average Income
+Total Spend
+Bottom section shows grand total spend: $530,897,755
+
+## Project Features
+Interactive filters for deeper data exploration.
+Gender, Age, Occupation, and Category-based financial insights.
+KPIs and donut charts for at-a-glance summary.
+Comparative visuals (bar, line, combo charts) for better storytelling.
+
+## Tools Used
+Power BI – For data visualization
+Excel/CSV – (Assumed) data sources
+DAX – For calculated columns/measures
+
+## Use Cases
+Financial behavior analysis
+Marketing and targeting based on spend habits
+Budget planning and customer segmentation
+Personal finance trend analysis
+
+
